@@ -1,1 +1,1 @@
-# SpringBootBasicProject
+# spring-boot-basic
